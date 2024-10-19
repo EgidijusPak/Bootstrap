@@ -1,0 +1,38 @@
+main {
+  width: 100vh;
+}
+header {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/012/168/187/non_2x/beautiful-sunset-on-the-beach-with-palm-tree-for-travel-and-vacation-free-photo.JPG");
+  background-color: transparent;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 75%;
+}
+
+.img-fluid {
+  width: 100vh;
+}
+
+.img-fluid1 {
+  width: 200vh;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.container {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+footer {
+  background-color: #f8f9fa;
+  padding: 1rem 0;
+}
